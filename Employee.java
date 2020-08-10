@@ -6,8 +6,13 @@ public class Employee{
 public Employee(){
 }
 
-public getName(){
+public String getName(){
 	return this.name;
+}
+
+public doublt getSalary(){
+	return this.salary;
+	
 }
 }	
 	
